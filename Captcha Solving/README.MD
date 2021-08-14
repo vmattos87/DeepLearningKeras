@@ -5,5 +5,5 @@ The Keras Functional API can create models that are more flexible than the tf.ke
 
 The dataset contains 1040 captcha files as png images.
 
-![Captcha Images](https://ibb.co/h7wGf2C)
+![Captcha Images](https://i.ibb.co/1vjC6Rb/hbhvv.png)
 
